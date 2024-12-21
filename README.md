@@ -3,7 +3,7 @@ Kinda like bloxstrap, but for sober on linux. This is in it's very early stages 
 
 Install:
 
-Go to [Releases](https://github.com/NewbestDev/spikestrap/releases/tag/spikestrap-2)
-Run `python3 /path/to/spikestrap.py`
-And that's it! You should be running spikestrap now!
+Go to [Releases](https://github.com/NewbestDev/spikestrap/releases/tag/spikestrap-2) and download spikestrap.py
+
+Run `python3 /path/to/spikestrap.py` in your terminal emulator, and that's it! You should be running spikestrap now!
 

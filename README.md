@@ -1,5 +1,6 @@
 # spikestrap
-Kinda like bloxstrap, but for sober on linux
+Kinda like bloxstrap, but for sober on linux.
+
 This is in it's very early stages so it might be buggy...
 
 Install:
